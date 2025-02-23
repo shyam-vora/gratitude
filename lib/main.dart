@@ -20,6 +20,10 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: Colors.white,
         appBarTheme: const AppBarTheme(
           elevation: 0,
+
+
+
+          
           backgroundColor: Colors.transparent
         ),
         colorScheme: ColorScheme.fromSeed(seedColor: TColor.primary),
